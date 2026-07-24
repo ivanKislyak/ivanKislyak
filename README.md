@@ -33,17 +33,6 @@ validation, tariff calculation logic, localization, and basic automated tests.
 
 `Python` `Tkinter` `SQLite` `Pillow` `JSON` `pytest`
 
-### [TextileFactory](https://github.com/ivanKislyak/TextileFactory)
-
-My college diploma project: an information system for managing a textile
-factory's clients, suppliers, employees, products, materials, orders, warehouse
-movements, and reports.
-
-It includes role-based access, CRUD operations, search and sorting, CSV export,
-database backups, password hashing, and automated and manual testing.
-
-`Python` `Tkinter` `SQLite` `pytest`
-
 ## Tech stack
 
 - **Languages:** Python, SQL, HTML, CSS

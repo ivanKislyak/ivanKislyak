@@ -1,14 +1,5 @@
 # Hi, I'm Ivan Kislyak
 
-I'm an aspiring software engineer based in Astana, Kazakhstan. I build practical
-applications with Python and am currently moving deeper into web development
-with Django.
-
-I like learning by understanding how things work, then applying that knowledge
-in real projects. My current focus is backend fundamentals, relational data,
-clean project structure, and interfaces that feel intentional rather than
-purely functional.
-
 ## Featured projects
 
 ### [Rafs](https://github.com/ivanKislyak/Rafs) — in active development

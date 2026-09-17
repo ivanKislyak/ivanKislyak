@@ -9,7 +9,7 @@ I'm currently building the project's foundation: its movie catalog, data model,
 Django templates, forms, URL structure, ORM queries, and custom dark interface.
 Ratings, reviews, and user profiles are part of the roadmap.
 
-`Python` `JS` `Django` `PostgreSQL` `SQLite` `HTML` `CSS` `pytest`
+`Python` `JS` `Django` `PostgreSQL` `SQLite` `Docker` `HTML` `CSS` `pytest`
 
 ### [Hau](https://github.com/ivanKislyak/hau)
 

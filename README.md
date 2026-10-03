@@ -3,11 +3,11 @@
 ### [Rafs](https://rafs.app/) — in active development ([repository](https://github.com/ivanKislyak/Rafs))
 
 A Django-based movie platform for discovering films, rating them by multiple
-criteria, and sharing spoiler-aware reviews.
+criteria, and sharing spoiler-aware reviews
 
 I'm currently building the project's foundation: its movie catalog, data model,
 Django templates, forms, URL structure, ORM queries, and custom dark interface.
-Ratings, reviews, and user profiles are part of the roadmap.
+Ratings, reviews, and user profiles are part of the roadmap
 
 `Python` `JS` `Django` `PostgreSQL` `SQLite` `Docker` `HTML` `CSS` `pytest`
 
@@ -25,11 +25,3 @@ settings, localization, currencies, and locally stored data.
 - **Desktop:** Tkinter, Pillow
 - **Data:** SQLite, JSON
 - **Tools:** Git, GitHub, PyCharm, pytest
-
-I'm open to internship and junior opportunities involving Python, automation,
-technical integrations, or backend development.
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/ivan-kislyak)
-[GitHub](https://github.com/ivanKislyak)

@@ -11,14 +11,6 @@ Ratings, reviews, and user profiles are part of the roadmap
 
 `Python` `JS` `Django` `PostgreSQL` `SQLite` `Docker` `HTML` `CSS` `pytest`
 
-### [Hau](https://github.com/ivanKislyak/hau)
-
-A desktop application for tracking utility usage and calculating bills. It
-supports multiple properties, meter readings, flat and tiered tariffs, user
-settings, localization, currencies, and locally stored data.
-
-`Python` `Tkinter` `SQLite` `Pillow` `JSON` `pytest`
-
 ## Tech stack
 - **Languages:** Python, JavaScript, SQL, HTML, CSS
 - **Backend:** Django
